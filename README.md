@@ -16,7 +16,6 @@ The project employs a pre-trained CNN model trained on the VGG Face dataset, ena
 
 ![Screenshot 2023-10-16 114710](https://github.com/santoshraiii/bollywood-look-alike-finder/assets/128511075/0d3f8ebf-6f0c-4db7-bf41-314f1baefddd)
 
-![Screenshot 2023-10-16 114643](https://github.com/santoshraiii/bollywood-look-alike-finder/assets/128511075/0e5a48fb-aba8-4eb8-b173-899b72df039d)
 
 Usage
 To get started, simply upload your image to the interface, and let our powerful CNN model handle the rest. Receive instant feedback on the Bollywood celebrity you bear a striking resemblance to!
